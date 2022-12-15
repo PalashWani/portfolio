@@ -40,7 +40,7 @@ const Footer = () => {
           <a href="https://facebook.com">
             <AiOutlineFacebook />
           </a>
-          <a href="https://instagram.com">
+          <a href="https://www.instagram.com/palash_wani_1613/">
             <FiInstagram />
           </a>
           <a href="https://twitter.com">

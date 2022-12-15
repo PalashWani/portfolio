@@ -49,7 +49,15 @@ const Expierence = () => {
               <BsPatchCheckFill className= "expierence__details-icon" />
               <div>
               <h4>React</h4>
-              <small className="text-light">Beginner</small>
+              <small className="text-light">Intermediate </small>
+              </div>
+            </article>
+
+            <article className="expierence__details">
+              <BsPatchCheckFill className= "expierence__details-icon" />
+              <div>
+              <h4>Tailwind CSS</h4>
+              <small className="text-light">Beginner </small>
               </div>
             </article>
           </div>

@@ -11,48 +11,48 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'psum dolor sit amet consectetur.',
-    github: 'https://github.com',
+    title: 'Book IT',
+    github: 'https://github.com/PalashWani/Booking-App',
     demo: 'https://github.com'
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'psum dolor sit amet consectetur.',
-    github: 'https://github.com',
+    title: 'Portfolio Website',
+    github: 'https://github.com/PalashWani/portfolio',
     demo: 'https://github.com'
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'psum dolor sit amet consectetur.',
-    github: 'https://github.com',
+    title: 'Budget Manager Application',
+    github: 'https://github.com/PalashWani/budget-app',
     demo: 'https://github.com'
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'psum dolor sit amet consectetur.',
-    github: 'https://github.com',
+    title: 'Color Picker Extension',
+    github: 'https://github.com/PalashWani/Color-Picker',
     demo: 'https://github.com'
   },
 
   {
     id: 5,
     image: IMG5,
-    title: 'psum dolor sit amet consectetur.',
-    github: 'https://github.com',
+    title: 'Hangman Game',
+    github: 'https://github.com/PalashWani/Hangman-Game',
     demo: 'https://github.com'
   },
 
   {
     id: 6,
     image: IMG6,
-    title: 'psum dolor sit amet consectetur.',
-    github: 'https://github.com',
+    title: 'Speed Typing Game',
+    github: 'https://github.com/PalashWani/Speed-Typing-Game',
     demo: 'https://github.com'
   },
 ]

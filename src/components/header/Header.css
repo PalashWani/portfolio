@@ -47,11 +47,15 @@ header {
     position: absolute;
     /*Substract half width from 50% to center the image (trick)*/
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 2rem;
     border-radius: 12rem 12rem 0 0;
-    overflow: hidden;
-    padding: 2rem 1.5rem 1.5rem 1.5rem;
+    overflow:hidden;
+    padding: 0rem 1.5rem 0rem 1.5rem;
 
+}
+
+.me-img {
+    object-fit: fill;
 }
 
 /*SCROLL DOWN*/
@@ -79,3 +83,4 @@ header {
         display: none;
     }
 }
+

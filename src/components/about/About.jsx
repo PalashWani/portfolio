@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from '../../assets/profile.png'
+import ME from '../../assets/palash-crop.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {TbFolders} from 'react-icons/tb'
@@ -36,7 +36,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, amet! Quaerat accusamus eum hic cumque ad quidem eligendi consequuntur debitis eaque nulla atque temporibus itaque rem aspernatur, pariatur quo. Consequatur.
+              Hello! I am Palash Wani a Web Development enthusiast. I am currently persuing my B.Tech degree from Pune Institute Of Computer Technology. My specialization is in Information Technology branch. I have completed my schooling from Aurangabad which is my home town. My hobbies are playing badminton and reading novels.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
