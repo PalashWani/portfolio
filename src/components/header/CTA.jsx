@@ -1,5 +1,5 @@
 import React from 'react'
-import cv from '../../assets/resume.pdf'
+import cv from '../../assets/Palash_resume_final.pdf'
 
 const CTA = () => {
   return (
@@ -7,7 +7,7 @@ const CTA = () => {
       <a href={cv} download className='btn'>Download CV</a>
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
     </div>
-  )
+  ) 
 }
 
 export default CTA
